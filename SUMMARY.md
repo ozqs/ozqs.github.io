@@ -6,4 +6,4 @@
 * [斜率优化DP](xie-shuai-you-hua-dp.md)
 * [ZROI-2022-Comp-D2](zroi-2022-comp-d2.md)
 * [😁 板子](ban-zi.md)
-* [😵 OIer数学相关](oier-shu-xue-xiang-guan.md)
+* [😵 数学相关](shu-xue-xiang-guan.md)
