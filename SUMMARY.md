@@ -7,3 +7,4 @@
 * [ZROI-2022-Comp-D2](zroi-2022-comp-d2.md)
 * [😁 板子](ban-zi.md)
 * [😵 数学相关](shu-xue-xiang-guan.md)
+* [😁 题解](ti-jie.md)
